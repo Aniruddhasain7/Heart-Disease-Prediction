@@ -1,1 +1,1 @@
-A Machine Learning classification model built with Logistic Regression to predict heart disease presence using clinical patient metrics.
+Heart Disease Prediction predicts heart disease from clinical data using preprocessing, feature engineering, and machine learning models. It trains and compares Logistic Regression and evaluates them with accuracy, precision, recall, F1, ROC‑AUC, and confusion matrices.
